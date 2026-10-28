@@ -9,6 +9,7 @@ Using the image converter in kicad, I added a bunch of stars, aliens, and space 
 I additionally added my own pet to the arduino code instead of the default pet.
 I wanted my pet to stay with the space theme, so I made my pet a star. I used an online pixel drawing site to create it.
 
+The sites I used: kicad (img converter, pcb editor, schematic editor), github, canva, arduino, piskel
 
 #### Schematic Editor
 ![schematic editor](imgs/schematiceditor.png)
