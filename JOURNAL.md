@@ -25,3 +25,10 @@
 [Timelapse](https://lookout.hackclub.com/api/media/c724dd06-48c2-42ff-abc7-86da209f8172/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/affab29f-5d14-4689-a282-8d2b4a9d40b1/video.mp4)
+
+## What I Did
+I first started off by setting up all the components in the Schematic editor.
+Then I transferred the Schematic editor information to the PCB editor and moved the components in the star-shaped way
+After creating the board and wiring, I added images (of stars, aliens, and other space things) through the image converter on kicad. 
+Once I was done with that, I added code to the arduino program and made some changes, like adding a sparkle effect.
+Finally, I created my custom start pet and I added it to the code.
